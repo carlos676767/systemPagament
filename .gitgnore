@@ -2,7 +2,7 @@
 node_modules/
 
 # Ignorar o arquivo config.js
-config.js
+config.json
 
 # Ignorar o arquivo .env
 .env
